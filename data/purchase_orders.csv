@@ -1,0 +1,9 @@
+po_number,vendor,item_code,description,qty_ordered,unit_price
+PO-1001,Metro Lighting Supply,TRF-2X4,2x4 LED flat panel 40W 4000K,80,72.0
+PO-1001,Metro Lighting Supply,DRV-010,0-10V dimmable LED driver 40W,40,54.5
+PO-1002,Empire Electrical Distributors,CPL-075,3/4in EMT compression coupling,1500,2.1
+PO-1002,Empire Electrical Distributors,EMT-075,3/4in EMT conduit 10ft,80,14.5
+PO-1003,Hudson Electrical Supply,MC-122,12/2 MC cable 250ft coil,20,118.0
+PO-1003,Hudson Electrical Supply,BOX-4SQ,4in square box,200,3.4
+PO-1004,Five Boro Sign Supply,LED-M3,"LED sign module 3-LED, box of 50",30,64.0
+PO-1004,Five Boro Sign Supply,PS-60W,12V 60W sign power supply,40,38.5

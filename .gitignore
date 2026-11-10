@@ -1,0 +1,14 @@
+.venv/
+__pycache__/
+.env
+results.json
+dashboard.html
+# demo/recording notes, not part of the tool
+teleprompter.html
+server.py
+demo.md
+demo.txt
+walkthrough.txt
+hello.py
+jira_hello.py
+procore_hello.py

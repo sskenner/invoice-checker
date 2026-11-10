@@ -1,0 +1,26 @@
+{
+  "vendor_name": "FIVE BORO SIGN SUPPLY",
+  "invoice_number": "FBF-3390",
+  "invoice_date": "2026-10-22",
+  "po_number": "PO-1004",
+  "line_items": [
+    {
+      "item_code": "LED-M3",
+      "description": "3-LED Sign Module White (50/bx)",
+      "quantity": 30.0,
+      "unit_price": 64.0,
+      "line_total": 1920.0
+    },
+    {
+      "item_code": "PS-60W",
+      "description": "Sign Power Supply 12VDC 60W",
+      "quantity": 40.0,
+      "unit_price": 38.5,
+      "line_total": 1540.0
+    }
+  ],
+  "subtotal": 3560.0,
+  "tax": 0.0,
+  "total_due": 3560.0,
+  "notes": "Job: 450 E 52nd St. Signed delivery ticket on file."
+}

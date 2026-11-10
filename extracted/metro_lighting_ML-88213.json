@@ -1,0 +1,26 @@
+{
+  "vendor_name": "Metro Lighting Supply",
+  "invoice_number": "ML-88213",
+  "invoice_date": "2026-10-15",
+  "po_number": "PO-1001",
+  "line_items": [
+    {
+      "item_code": "TRF-2X4",
+      "description": "LED PANEL 2X4 40W 40K",
+      "quantity": 80.0,
+      "unit_price": 72.0,
+      "line_total": 5760.0
+    },
+    {
+      "item_code": "DRV-010",
+      "description": "DRIVER 0-10V DIM 40W",
+      "quantity": 40.0,
+      "unit_price": 54.5,
+      "line_total": 2180.0
+    }
+  ],
+  "subtotal": 7940.0,
+  "tax": 0.0,
+  "total_due": 7940.0,
+  "notes": "Terms: Net 30. Delivered to 450 E 52nd St jobsite."
+}

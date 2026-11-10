@@ -1,0 +1,26 @@
+{
+  "vendor_name": "METRO LIGHTING SUPPLY",
+  "invoice_number": "ML-88213",
+  "invoice_date": "2026-10-29",
+  "po_number": "PO-1001",
+  "line_items": [
+    {
+      "item_code": "TRF-2X4",
+      "description": "2x4 LED Flat Panel 40W",
+      "quantity": 80.0,
+      "unit_price": 72.0,
+      "line_total": 5760.0
+    },
+    {
+      "item_code": "DRV-010",
+      "description": "LED Driver 0-10V Dimmable",
+      "quantity": 40.0,
+      "unit_price": 54.5,
+      "line_total": 2180.0
+    }
+  ],
+  "subtotal": 7940.0,
+  "tax": 0.0,
+  "total_due": 7940.0,
+  "notes": "SECOND NOTICE - PLEASE REMIT. Disregard if already paid."
+}

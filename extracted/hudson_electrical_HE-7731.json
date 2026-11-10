@@ -1,0 +1,26 @@
+{
+  "vendor_name": "Hudson Electrical Supply",
+  "invoice_number": "HE-7731",
+  "invoice_date": "2026-10-21",
+  "po_number": "PO-1003",
+  "line_items": [
+    {
+      "item_code": "MC-122",
+      "description": "MC Cable 12/2 AL Armor 250' coil",
+      "quantity": 20.0,
+      "unit_price": 118.0,
+      "line_total": 2360.0
+    },
+    {
+      "item_code": "BOX-4SQ",
+      "description": "4\" Sq Box 2-1/8\" deep",
+      "quantity": 200.0,
+      "unit_price": 3.4,
+      "line_total": 680.0
+    }
+  ],
+  "subtotal": 3040.0,
+  "tax": 0.0,
+  "total_due": 3040.0,
+  "notes": "Thank you for your business! Questions? Call the counter at ext. 4."
+}
